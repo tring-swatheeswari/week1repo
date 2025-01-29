@@ -1,4 +1,4 @@
-public class Exception{
+public class Exception {
     public static void main(String[] args) {
         String name = "Swathi";
         int age = 21;
